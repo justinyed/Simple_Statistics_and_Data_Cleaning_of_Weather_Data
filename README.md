@@ -1,15 +1,15 @@
 # w4-Stats-and-Data-Cleaning
 
 ## Exercise 1: Descriptive Statistics 
-
-- [ ] Get range (high and low) for each day (Print it nicely like a weather report)
-- [ ] Plot Mean w/standard deviation for the y error bars by day of week
-- [ ] Create a 1-dimensional histogram of:
-  - [ ] All variables for the entire week
-  - [ ] For the day that the hurricane passed through
-  - [ ] Use subplots to put two plots in the same figure if needed.
-- [ ] Convert all lists to numpy arrays and use numpy to conditionally select elements
+- [x] Convert all lists to numpy arrays and use numpy to conditionally select elements
   - `temp[ dates < np.datetime64('2019- 09-07T00:00’)]`
+- [x] Get temperature high and low for each day (Print it nicely like a weather report) 
+- [x] Plot Mean w/standard deviation for the y error bars by day of week
+- [ ] Create a 1-dimensional histogram of:
+  - Use subplots to put two plots in the same figure if needed.
+  - [ ] All variables for the entire week (one for each)
+  - [ ] All variables for the day that the hurricane passed through (one for each)
+
 
 ## Exercise 2: Data Wrangling
 

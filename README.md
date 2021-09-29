@@ -5,10 +5,10 @@
   - `temp[ dates < np.datetime64('2019- 09-07T00:00’)]`
 - [x] Get temperature high and low for each day (Print it nicely like a weather report) 
 - [x] Plot Mean w/standard deviation for the y error bars by day of week
-- [ ] Create a 1-dimensional histogram of:
+- [x] Create a 1-dimensional histogram of:
   - Use subplots to put two plots in the same figure if needed.
-  - [ ] All variables for the entire week (one for each)
-  - [ ] All variables for the day that the hurricane passed through (one for each)
+  - [x] All variables for the entire week (one for each)
+  - [x] All variables for the day that the hurricane passed through (one for each)
 
 
 ## Exercise 2: Data Wrangling

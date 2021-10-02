@@ -13,12 +13,12 @@
 
 ## Exercise 2: Data Wrangling
 
-- [ ] For data wrangling/munging practice:
-- [ ] Write code that duplicates the files I included in W3 from the original 2019dbase.csv file from
+- [x] For data wrangling/munging practice:
+- [x] Write code that duplicates the files I included in W3 from the original 2019dbase.csv file from
   - https://www.jlab.org/fm/wx/ • https://www.jlab.org/fm/wx/VWS/data/
   - Note: The header file csv_column_headers.csv
-- [ ] Find at least 5 other variables that you find interesting in the data set and perform a descriptive analysis on
+- [x] Find at least 3 other variables that you find interesting in the data set and perform a descriptive analysis on
   them w/plots!
   - [ ] Extra: Is it possible to calculate the rainfall by month?
-- [ ] What did you have to do to wrangle the data into a reasonable dataset?
+- [x] What did you have to do to wrangle the data into a reasonable dataset?
 

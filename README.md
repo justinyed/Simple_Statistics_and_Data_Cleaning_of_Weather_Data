@@ -13,7 +13,7 @@
 
 ## Exercise 2: Data Wrangling
 
-This part was half done in class!
+A Thrid done in class!
 
 - [x] For data wrangling/munging practice:
 - [x] Write code that duplicates the files I included in W3 from the original 2019dbase.csv file from
